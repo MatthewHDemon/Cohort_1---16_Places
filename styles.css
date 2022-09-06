@@ -176,7 +176,7 @@ body .container .card:nth-child(3) .face.face2 {
     border-radius: 15px;
 }
 body .container .card:nth-child(4) .face.face2 {
-    background-image: url("./assets/place4.jpg");
+    background-image: url("./assets/Place4.jpg");
     background-size: cover;
     background-repeat:repeat-x;
     border-radius: 15px;
